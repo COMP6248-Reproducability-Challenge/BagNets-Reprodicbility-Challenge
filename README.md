@@ -14,3 +14,6 @@ BagNets9, BagNets17, BagNets33, densenet121, densenet169, resnet50 and Cbam-resn
 
 #### 3. 
 The "sc_" jupyter notebook includes the codes of generation of scramble images and their accuracy.
+
+#### 4.
+The class of BagNet model is rewrite by us in the file "BagNet_model.py", and a training script to train the model on Stanford Dogs Dataset is in file "train.py".
